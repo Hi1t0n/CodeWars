@@ -1,0 +1,3 @@
+﻿  You're a square!.cpp
+D:\Visual code\C++\You're a square!\You're a square!.cpp(22,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  You're a square!.vcxproj -> D:\Visual code\C++\You're a square!\x64\Debug\You're a square!.exe

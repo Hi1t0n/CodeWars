@@ -1,0 +1,3 @@
+﻿  water.cpp
+C:\CODE\C++\LeetCode Codewars\Vault experience (1) Enough water for how many days\water\water.cpp(45,14): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  water.vcxproj -> C:\CODE\C++\LeetCode Codewars\Vault experience (1) Enough water for how many days\water\x64\Debug\water.exe

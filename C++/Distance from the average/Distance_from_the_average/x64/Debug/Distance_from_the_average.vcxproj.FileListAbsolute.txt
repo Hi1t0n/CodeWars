@@ -1,0 +1,1 @@
+C:\CODE\C++\LeetCode Codewars\Distance from the average\Distance_from_the_average\x64\Debug\Distance_from_the_average.exe

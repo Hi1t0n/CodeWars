@@ -1,0 +1,22 @@
+﻿  Shortest Word.cpp
+C:\CODE\C++\LeetCode Codewars\Shortest Word\Shortest Word.cpp(8,21): error C2079: 'inp' uses undefined class 'std::basic_istringstream<char,std::char_traits<char>,std::allocator<char>>'
+C:\CODE\C++\LeetCode Codewars\Shortest Word\Shortest Word.cpp(8,28): error C2440: 'initializing': cannot convert from 'const std::string' to 'int'
+C:\CODE\C++\LeetCode Codewars\Shortest Word\Shortest Word.cpp(8,24): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+C:\CODE\C++\LeetCode Codewars\Shortest Word\Shortest Word.cpp(11,32): error C2672: 'std::getline': no matching overloaded function found
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.33.31629\include\string(83,32): message : could be 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)'
+C:\CODE\C++\LeetCode Codewars\Shortest Word\Shortest Word.cpp(11,14): message : 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 3 provided
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.33.31629\include\string(83): message : see declaration of 'std::getline'
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.33.31629\include\string(76,32): message : or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)'
+C:\CODE\C++\LeetCode Codewars\Shortest Word\Shortest Word.cpp(11,14): message : 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': could not deduce template argument for 'std::basic_istream<_Elem,_Traits> &' from 'int'
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.33.31629\include\string(76): message : see declaration of 'std::getline'
+C:\CODE\C++\LeetCode Codewars\Shortest Word\Shortest Word.cpp(11,14): message : 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': could not deduce template argument for 'std::basic_istream<_Elem,_Traits> &' from 'int'
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.33.31629\include\string(76): message : see declaration of 'std::getline'
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.33.31629\include\string(69,32): message : or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)'
+C:\CODE\C++\LeetCode Codewars\Shortest Word\Shortest Word.cpp(11,14): message : 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &)': expects 2 arguments - 3 provided
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.33.31629\include\string(69): message : see declaration of 'std::getline'
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.33.31629\include\string(26,32): message : or       'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)'
+C:\CODE\C++\LeetCode Codewars\Shortest Word\Shortest Word.cpp(11,14): message : 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': could not deduce template argument for 'std::basic_istream<_Elem,_Traits> &&' from 'int'
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.33.31629\include\string(26): message : see declaration of 'std::getline'
+C:\CODE\C++\LeetCode Codewars\Shortest Word\Shortest Word.cpp(11,14): message : 'std::basic_istream<_Elem,_Traits> &std::getline(std::basic_istream<_Elem,_Traits> &&,std::basic_string<_Elem,_Traits,_Alloc> &,const _Elem)': could not deduce template argument for 'std::basic_istream<_Elem,_Traits> &&' from 'int'
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.33.31629\include\string(26): message : see declaration of 'std::getline'
+C:\CODE\C++\LeetCode Codewars\Shortest Word\Shortest Word.cpp(14,20): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data

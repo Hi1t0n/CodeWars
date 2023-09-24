@@ -1,0 +1,1 @@
+C:\CODE\C++\LeetCode Codewars\sum factorial\x64\Debug\sum factorial.exe

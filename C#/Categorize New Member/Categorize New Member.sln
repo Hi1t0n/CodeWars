@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Categorize New Member", "Categorize New Member.csproj", "{2F05CE3A-FC1D-4ECF-8056-7141153C14F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Categorize New Member.Test", "Categorize New Member.Test\Categorize New Member.Test.csproj", "{5568AE15-2629-4692-8B73-CE3EE33B29DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F05CE3A-FC1D-4ECF-8056-7141153C14F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F05CE3A-FC1D-4ECF-8056-7141153C14F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F05CE3A-FC1D-4ECF-8056-7141153C14F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F05CE3A-FC1D-4ECF-8056-7141153C14F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5568AE15-2629-4692-8B73-CE3EE33B29DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5568AE15-2629-4692-8B73-CE3EE33B29DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5568AE15-2629-4692-8B73-CE3EE33B29DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5568AE15-2629-4692-8B73-CE3EE33B29DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

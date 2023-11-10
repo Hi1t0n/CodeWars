@@ -1,0 +1,11 @@
+C:\CODE\C#\CodeWars\Categorize New Member\Categorize New Member.Test\bin\Debug\Categorize_New_Member.Test.dll
+C:\CODE\C#\CodeWars\Categorize New Member\Categorize New Member.Test\bin\Debug\Categorize_New_Member.Test.pdb
+C:\CODE\C#\CodeWars\Categorize New Member\Categorize New Member.Test\bin\Debug\Categorize_New_Member.exe
+C:\CODE\C#\CodeWars\Categorize New Member\Categorize New Member.Test\bin\Debug\nunit.framework.dll
+C:\CODE\C#\CodeWars\Categorize New Member\Categorize New Member.Test\bin\Debug\Categorize_New_Member.pdb
+C:\CODE\C#\CodeWars\Categorize New Member\Categorize New Member.Test\bin\Debug\nunit.framework.xml
+C:\CODE\C#\CodeWars\Categorize New Member\Categorize New Member.Test\obj\Debug\Categorize New Member.Test.csproj.AssemblyReference.cache
+C:\CODE\C#\CodeWars\Categorize New Member\Categorize New Member.Test\obj\Debug\Categorize New Member.Test.csproj.CoreCompileInputs.cache
+C:\CODE\C#\CodeWars\Categorize New Member\Categorize New Member.Test\obj\Debug\Categorize New Member.Test.csproj.CopyComplete
+C:\CODE\C#\CodeWars\Categorize New Member\Categorize New Member.Test\obj\Debug\Categorize_New_Member.Test.dll
+C:\CODE\C#\CodeWars\Categorize New Member\Categorize New Member.Test\obj\Debug\Categorize_New_Member.Test.pdb

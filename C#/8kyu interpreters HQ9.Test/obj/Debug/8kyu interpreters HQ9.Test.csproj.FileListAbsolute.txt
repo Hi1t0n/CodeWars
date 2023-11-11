@@ -1,0 +1,11 @@
+C:\CODE\C#\CodeWars\8kyu interpreters HQ9\8kyu interpreters HQ9.Test\bin\Debug\_8kyu_interpreters_HQ9.Test.dll
+C:\CODE\C#\CodeWars\8kyu interpreters HQ9\8kyu interpreters HQ9.Test\bin\Debug\_8kyu_interpreters_HQ9.Test.pdb
+C:\CODE\C#\CodeWars\8kyu interpreters HQ9\8kyu interpreters HQ9.Test\bin\Debug\nunit.framework.dll
+C:\CODE\C#\CodeWars\8kyu interpreters HQ9\8kyu interpreters HQ9.Test\bin\Debug\_8kyu_interpreters_HQ9.exe
+C:\CODE\C#\CodeWars\8kyu interpreters HQ9\8kyu interpreters HQ9.Test\bin\Debug\_8kyu_interpreters_HQ9.pdb
+C:\CODE\C#\CodeWars\8kyu interpreters HQ9\8kyu interpreters HQ9.Test\bin\Debug\nunit.framework.xml
+C:\CODE\C#\CodeWars\8kyu interpreters HQ9\8kyu interpreters HQ9.Test\obj\Debug\8kyu interpreters HQ9.Test.csproj.AssemblyReference.cache
+C:\CODE\C#\CodeWars\8kyu interpreters HQ9\8kyu interpreters HQ9.Test\obj\Debug\8kyu interpreters HQ9.Test.csproj.CoreCompileInputs.cache
+C:\CODE\C#\CodeWars\8kyu interpreters HQ9\8kyu interpreters HQ9.Test\obj\Debug\8kyu interpreters HQ9.Test.csproj.CopyComplete
+C:\CODE\C#\CodeWars\8kyu interpreters HQ9\8kyu interpreters HQ9.Test\obj\Debug\_8kyu_interpreters_HQ9.Test.dll
+C:\CODE\C#\CodeWars\8kyu interpreters HQ9\8kyu interpreters HQ9.Test\obj\Debug\_8kyu_interpreters_HQ9.Test.pdb

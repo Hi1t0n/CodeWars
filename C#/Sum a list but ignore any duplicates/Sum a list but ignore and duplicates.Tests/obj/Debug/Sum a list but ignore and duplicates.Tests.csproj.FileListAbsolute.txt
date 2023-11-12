@@ -1,0 +1,11 @@
+C:\CODE\C#\CodeWars\Sum a list but ignore any duplicates\Sum a list but ignore and duplicates.Tests\bin\Debug\Sum_a_list_but_ignore_and_duplicates.dll
+C:\CODE\C#\CodeWars\Sum a list but ignore any duplicates\Sum a list but ignore and duplicates.Tests\bin\Debug\Sum_a_list_but_ignore_and_duplicates.pdb
+C:\CODE\C#\CodeWars\Sum a list but ignore any duplicates\Sum a list but ignore and duplicates.Tests\bin\Debug\nunit.framework.dll
+C:\CODE\C#\CodeWars\Sum a list but ignore any duplicates\Sum a list but ignore and duplicates.Tests\bin\Debug\Sum_a_list_but_ignore_any_duplicates.exe
+C:\CODE\C#\CodeWars\Sum a list but ignore any duplicates\Sum a list but ignore and duplicates.Tests\bin\Debug\Sum_a_list_but_ignore_any_duplicates.pdb
+C:\CODE\C#\CodeWars\Sum a list but ignore any duplicates\Sum a list but ignore and duplicates.Tests\bin\Debug\nunit.framework.xml
+C:\CODE\C#\CodeWars\Sum a list but ignore any duplicates\Sum a list but ignore and duplicates.Tests\obj\Debug\Sum a list but ignore and duplicates.Tests.csproj.AssemblyReference.cache
+C:\CODE\C#\CodeWars\Sum a list but ignore any duplicates\Sum a list but ignore and duplicates.Tests\obj\Debug\Sum a list but ignore and duplicates.Tests.csproj.CoreCompileInputs.cache
+C:\CODE\C#\CodeWars\Sum a list but ignore any duplicates\Sum a list but ignore and duplicates.Tests\obj\Debug\Sum a list but ignore and duplicates.Tests.csproj.CopyComplete
+C:\CODE\C#\CodeWars\Sum a list but ignore any duplicates\Sum a list but ignore and duplicates.Tests\obj\Debug\Sum_a_list_but_ignore_and_duplicates.dll
+C:\CODE\C#\CodeWars\Sum a list but ignore any duplicates\Sum a list but ignore and duplicates.Tests\obj\Debug\Sum_a_list_but_ignore_and_duplicates.pdb

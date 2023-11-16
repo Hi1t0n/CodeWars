@@ -1,0 +1,11 @@
+C:\CODE\C#\CodeWars\Count of positives sum of negatives\Count of positives sum of negatives.Test\bin\Debug\Count_of_positives_sum_of_negatives.Test.dll
+C:\CODE\C#\CodeWars\Count of positives sum of negatives\Count of positives sum of negatives.Test\bin\Debug\Count_of_positives_sum_of_negatives.Test.pdb
+C:\CODE\C#\CodeWars\Count of positives sum of negatives\Count of positives sum of negatives.Test\bin\Debug\Count_of_positives_sum_of_negatives.exe
+C:\CODE\C#\CodeWars\Count of positives sum of negatives\Count of positives sum of negatives.Test\bin\Debug\nunit.framework.dll
+C:\CODE\C#\CodeWars\Count of positives sum of negatives\Count of positives sum of negatives.Test\bin\Debug\Count_of_positives_sum_of_negatives.pdb
+C:\CODE\C#\CodeWars\Count of positives sum of negatives\Count of positives sum of negatives.Test\bin\Debug\nunit.framework.xml
+C:\CODE\C#\CodeWars\Count of positives sum of negatives\Count of positives sum of negatives.Test\obj\Debug\Count of positives sum of negatives.Test.csproj.AssemblyReference.cache
+C:\CODE\C#\CodeWars\Count of positives sum of negatives\Count of positives sum of negatives.Test\obj\Debug\Count of positives sum of negatives.Test.csproj.CoreCompileInputs.cache
+C:\CODE\C#\CodeWars\Count of positives sum of negatives\Count of positives sum of negatives.Test\obj\Debug\Count of positives sum of negatives.Test.csproj.CopyComplete
+C:\CODE\C#\CodeWars\Count of positives sum of negatives\Count of positives sum of negatives.Test\obj\Debug\Count_of_positives_sum_of_negatives.Test.dll
+C:\CODE\C#\CodeWars\Count of positives sum of negatives\Count of positives sum of negatives.Test\obj\Debug\Count_of_positives_sum_of_negatives.Test.pdb

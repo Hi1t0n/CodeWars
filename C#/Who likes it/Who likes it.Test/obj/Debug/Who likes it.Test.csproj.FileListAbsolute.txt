@@ -1,0 +1,11 @@
+C:\CODE\C#\CodeWars\Who likes it\Who likes it.Test\bin\Debug\Who_likes_it.Test.dll
+C:\CODE\C#\CodeWars\Who likes it\Who likes it.Test\bin\Debug\Who_likes_it.Test.pdb
+C:\CODE\C#\CodeWars\Who likes it\Who likes it.Test\bin\Debug\nunit.framework.dll
+C:\CODE\C#\CodeWars\Who likes it\Who likes it.Test\bin\Debug\Who_likes_it.exe
+C:\CODE\C#\CodeWars\Who likes it\Who likes it.Test\bin\Debug\Who_likes_it.pdb
+C:\CODE\C#\CodeWars\Who likes it\Who likes it.Test\bin\Debug\nunit.framework.xml
+C:\CODE\C#\CodeWars\Who likes it\Who likes it.Test\obj\Debug\Who likes it.Test.csproj.AssemblyReference.cache
+C:\CODE\C#\CodeWars\Who likes it\Who likes it.Test\obj\Debug\Who likes it.Test.csproj.CoreCompileInputs.cache
+C:\CODE\C#\CodeWars\Who likes it\Who likes it.Test\obj\Debug\Who likes it.Test.csproj.CopyComplete
+C:\CODE\C#\CodeWars\Who likes it\Who likes it.Test\obj\Debug\Who_likes_it.Test.dll
+C:\CODE\C#\CodeWars\Who likes it\Who likes it.Test\obj\Debug\Who_likes_it.Test.pdb

@@ -1,0 +1,11 @@
+C:\CODE\C#\CodeWars\Binary Addition\Binary Addition.Test\bin\Debug\Binary_Addition.Test.dll
+C:\CODE\C#\CodeWars\Binary Addition\Binary Addition.Test\bin\Debug\Binary_Addition.Test.pdb
+C:\CODE\C#\CodeWars\Binary Addition\Binary Addition.Test\bin\Debug\Binary_Addition.exe
+C:\CODE\C#\CodeWars\Binary Addition\Binary Addition.Test\bin\Debug\nunit.framework.dll
+C:\CODE\C#\CodeWars\Binary Addition\Binary Addition.Test\bin\Debug\Binary_Addition.pdb
+C:\CODE\C#\CodeWars\Binary Addition\Binary Addition.Test\bin\Debug\nunit.framework.xml
+C:\CODE\C#\CodeWars\Binary Addition\Binary Addition.Test\obj\Debug\Binary Addition.Test.csproj.AssemblyReference.cache
+C:\CODE\C#\CodeWars\Binary Addition\Binary Addition.Test\obj\Debug\Binary Addition.Test.csproj.CoreCompileInputs.cache
+C:\CODE\C#\CodeWars\Binary Addition\Binary Addition.Test\obj\Debug\Binary Addition.Test.csproj.CopyComplete
+C:\CODE\C#\CodeWars\Binary Addition\Binary Addition.Test\obj\Debug\Binary_Addition.Test.dll
+C:\CODE\C#\CodeWars\Binary Addition\Binary Addition.Test\obj\Debug\Binary_Addition.Test.pdb

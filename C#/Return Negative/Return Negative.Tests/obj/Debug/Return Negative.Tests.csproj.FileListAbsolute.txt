@@ -1,0 +1,11 @@
+C:\CODE\C#\CodeWars\Return Negative\Return Negative.Tests\bin\Debug\Return_Negative.Tests.dll
+C:\CODE\C#\CodeWars\Return Negative\Return Negative.Tests\bin\Debug\Return_Negative.Tests.pdb
+C:\CODE\C#\CodeWars\Return Negative\Return Negative.Tests\bin\Debug\nunit.framework.dll
+C:\CODE\C#\CodeWars\Return Negative\Return Negative.Tests\bin\Debug\Return_Negative.exe
+C:\CODE\C#\CodeWars\Return Negative\Return Negative.Tests\bin\Debug\Return_Negative.pdb
+C:\CODE\C#\CodeWars\Return Negative\Return Negative.Tests\bin\Debug\nunit.framework.xml
+C:\CODE\C#\CodeWars\Return Negative\Return Negative.Tests\obj\Debug\Return Negative.Tests.csproj.AssemblyReference.cache
+C:\CODE\C#\CodeWars\Return Negative\Return Negative.Tests\obj\Debug\Return Negative.Tests.csproj.CoreCompileInputs.cache
+C:\CODE\C#\CodeWars\Return Negative\Return Negative.Tests\obj\Debug\Return Negative.Tests.csproj.CopyComplete
+C:\CODE\C#\CodeWars\Return Negative\Return Negative.Tests\obj\Debug\Return_Negative.Tests.dll
+C:\CODE\C#\CodeWars\Return Negative\Return Negative.Tests\obj\Debug\Return_Negative.Tests.pdb

@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unique in Order", "Unique in Order.csproj", "{280CEFB8-C373-4C86-9267-5884C87B66B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unique in Order.Tests", "Unique in Order.Tests\Unique in Order.Tests.csproj", "{8EF7DFA4-E3CB-472F-A63E-7706FC24BDC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{280CEFB8-C373-4C86-9267-5884C87B66B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{280CEFB8-C373-4C86-9267-5884C87B66B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{280CEFB8-C373-4C86-9267-5884C87B66B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{280CEFB8-C373-4C86-9267-5884C87B66B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EF7DFA4-E3CB-472F-A63E-7706FC24BDC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EF7DFA4-E3CB-472F-A63E-7706FC24BDC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EF7DFA4-E3CB-472F-A63E-7706FC24BDC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EF7DFA4-E3CB-472F-A63E-7706FC24BDC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

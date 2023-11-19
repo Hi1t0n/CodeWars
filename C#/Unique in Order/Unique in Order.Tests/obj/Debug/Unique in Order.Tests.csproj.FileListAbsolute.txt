@@ -1,0 +1,11 @@
+C:\CODE\C#\CodeWars\Unique in Order\Unique in Order.Tests\bin\Debug\Unique_in_Order.Tests.dll
+C:\CODE\C#\CodeWars\Unique in Order\Unique in Order.Tests\bin\Debug\Unique_in_Order.Tests.pdb
+C:\CODE\C#\CodeWars\Unique in Order\Unique in Order.Tests\bin\Debug\nunit.framework.dll
+C:\CODE\C#\CodeWars\Unique in Order\Unique in Order.Tests\bin\Debug\Unique_in_Order.exe
+C:\CODE\C#\CodeWars\Unique in Order\Unique in Order.Tests\bin\Debug\Unique_in_Order.pdb
+C:\CODE\C#\CodeWars\Unique in Order\Unique in Order.Tests\bin\Debug\nunit.framework.xml
+C:\CODE\C#\CodeWars\Unique in Order\Unique in Order.Tests\obj\Debug\Unique in Order.Tests.csproj.AssemblyReference.cache
+C:\CODE\C#\CodeWars\Unique in Order\Unique in Order.Tests\obj\Debug\Unique in Order.Tests.csproj.CoreCompileInputs.cache
+C:\CODE\C#\CodeWars\Unique in Order\Unique in Order.Tests\obj\Debug\Unique in Order.Tests.csproj.CopyComplete
+C:\CODE\C#\CodeWars\Unique in Order\Unique in Order.Tests\obj\Debug\Unique_in_Order.Tests.dll
+C:\CODE\C#\CodeWars\Unique in Order\Unique in Order.Tests\obj\Debug\Unique_in_Order.Tests.pdb

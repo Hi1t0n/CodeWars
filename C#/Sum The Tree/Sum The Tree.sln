@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum The Tree", "Sum The Tree.csproj", "{577726E5-7F20-4C59-9EF2-5B4C29690602}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum The Tree.Tests", "Sum The Tree.Tests\Sum The Tree.Tests.csproj", "{1CCBF721-F984-4CBB-926E-2B83C8701C3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{577726E5-7F20-4C59-9EF2-5B4C29690602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{577726E5-7F20-4C59-9EF2-5B4C29690602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{577726E5-7F20-4C59-9EF2-5B4C29690602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{577726E5-7F20-4C59-9EF2-5B4C29690602}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CCBF721-F984-4CBB-926E-2B83C8701C3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CCBF721-F984-4CBB-926E-2B83C8701C3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CCBF721-F984-4CBB-926E-2B83C8701C3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CCBF721-F984-4CBB-926E-2B83C8701C3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

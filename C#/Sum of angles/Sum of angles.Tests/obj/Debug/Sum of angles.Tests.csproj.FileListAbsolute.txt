@@ -1,0 +1,11 @@
+C:\CODE\C#\Sum of angles\Sum of angles.Tests\bin\Debug\Sum_of_angles.Tests.dll
+C:\CODE\C#\Sum of angles\Sum of angles.Tests\bin\Debug\Sum_of_angles.Tests.pdb
+C:\CODE\C#\Sum of angles\Sum of angles.Tests\bin\Debug\nunit.framework.dll
+C:\CODE\C#\Sum of angles\Sum of angles.Tests\bin\Debug\Sum_of_angles.exe
+C:\CODE\C#\Sum of angles\Sum of angles.Tests\bin\Debug\Sum_of_angles.pdb
+C:\CODE\C#\Sum of angles\Sum of angles.Tests\bin\Debug\nunit.framework.xml
+C:\CODE\C#\Sum of angles\Sum of angles.Tests\obj\Debug\Sum of angles.Tests.csproj.AssemblyReference.cache
+C:\CODE\C#\Sum of angles\Sum of angles.Tests\obj\Debug\Sum of angles.Tests.csproj.CoreCompileInputs.cache
+C:\CODE\C#\Sum of angles\Sum of angles.Tests\obj\Debug\Sum of angles.Tests.csproj.CopyComplete
+C:\CODE\C#\Sum of angles\Sum of angles.Tests\obj\Debug\Sum_of_angles.Tests.dll
+C:\CODE\C#\Sum of angles\Sum of angles.Tests\obj\Debug\Sum_of_angles.Tests.pdb

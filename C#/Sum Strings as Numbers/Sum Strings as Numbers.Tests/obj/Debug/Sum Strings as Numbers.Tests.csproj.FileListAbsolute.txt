@@ -1,0 +1,11 @@
+C:\CODE\C#\CodeWars\Sum Strings as Numbers\Sum Strings as Numbers.Tests\bin\Debug\Sum_Strings_as_Numbers.Tests.dll
+C:\CODE\C#\CodeWars\Sum Strings as Numbers\Sum Strings as Numbers.Tests\bin\Debug\Sum_Strings_as_Numbers.Tests.pdb
+C:\CODE\C#\CodeWars\Sum Strings as Numbers\Sum Strings as Numbers.Tests\bin\Debug\nunit.framework.dll
+C:\CODE\C#\CodeWars\Sum Strings as Numbers\Sum Strings as Numbers.Tests\bin\Debug\Sum_Strings_as_Numbers.exe
+C:\CODE\C#\CodeWars\Sum Strings as Numbers\Sum Strings as Numbers.Tests\bin\Debug\Sum_Strings_as_Numbers.pdb
+C:\CODE\C#\CodeWars\Sum Strings as Numbers\Sum Strings as Numbers.Tests\bin\Debug\nunit.framework.xml
+C:\CODE\C#\CodeWars\Sum Strings as Numbers\Sum Strings as Numbers.Tests\obj\Debug\Sum Strings as Numbers.Tests.csproj.AssemblyReference.cache
+C:\CODE\C#\CodeWars\Sum Strings as Numbers\Sum Strings as Numbers.Tests\obj\Debug\Sum Strings as Numbers.Tests.csproj.CoreCompileInputs.cache
+C:\CODE\C#\CodeWars\Sum Strings as Numbers\Sum Strings as Numbers.Tests\obj\Debug\Sum Strings as Numbers.Tests.csproj.CopyComplete
+C:\CODE\C#\CodeWars\Sum Strings as Numbers\Sum Strings as Numbers.Tests\obj\Debug\Sum_Strings_as_Numbers.Tests.dll
+C:\CODE\C#\CodeWars\Sum Strings as Numbers\Sum Strings as Numbers.Tests\obj\Debug\Sum_Strings_as_Numbers.Tests.pdb
